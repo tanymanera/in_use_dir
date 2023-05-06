@@ -8,3 +8,4 @@ a gui to reach the dir currently in use
    1. il nome della directory
    1. la path alla directory
    1. y se la dir è ancora di interesse, n se la dir non interessa più
+1. la gestione del .csv avviene attraverso il tasto "CSV" che apre il blocco note di Windows
