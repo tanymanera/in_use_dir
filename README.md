@@ -1,5 +1,5 @@
 # in_use_dir
-a gui to reach the dir currently in use
+a gui to reach the dirs currently in use
 
 ## Uso
 1. creare un virtual enviroment di nome .explorer_env (o altrimenti modificare i file .bat)
